@@ -1,0 +1,26 @@
+body {
+	background-color: #28536c;
+}
+
+#contact {
+	padding: 80px 0;
+	color: #fff;
+}
+
+#contact p, h1{
+	text-align: center;
+}
+
+#contact .btn-default {
+	padding: 4px 60px;
+	margin: 15px;
+	border: 1px solid #fff;
+	border-radius: 0;
+	transition: 0.3s;
+}
+
+#contact .btn-default:hover {
+	color: #fff;
+	background-color: #081f3d;
+	transition: 0.3s;
+}
